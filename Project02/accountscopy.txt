@@ -1,0 +1,10 @@
+1000, 1000, Ethan Gutknecht, 4800 Ethan Gutknecht, Broadview Heights, OH, 44174, 111-11-1111, 6045.03
+1010, 1001, Logan Gutknecht, 4800 Logan Gutknecht, Broadview Heights, OH, 44174, 000-11-1111, 45.03
+1020, 1002, Megan Gutknecht, 4800 Megan Gutknecht, Broadview Heights, OH, 44174, 111-00-1111, 60445.03
+1030, 1003, Sally Gutknecht, 4800 Sally Gutknecht, Broadview Heights, OH, 44174, 111-11-0000, 645.42
+1040, 1004, Dennis Gutknecht, 4800 Dennis Gutknecht, Broadview Heights, OH, 44174, 111-33-1111, 6045.04
+1050, 1005, Morgan Charles, 280 Morgan Charles, Oxford, OH, 45056, 000-22-2222, 135.21
+1060, 1006, Danny Charles, 280 Danny Charles, Oxford, OH, 45056, 222-00-2222, 12835.21
+1070, 1007, John Charles, 280 John Charles, Oxford, OH, 45056, 222-22-0000, 1235.21
+1080, 1008, Manny Charles, 280 Manny Charles, Oxford, OH, 45056, 222-65-2222, 12835.21
+1090, 1009, Jesse Smith, 99900 Jesse Smith, Hamilton, OH, 45011, 421-23-5322, 242.98
